@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=sidsimhadri)](https://git.io/streak-stats)
 <!--
 **sidsimhadri/sidsimhadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

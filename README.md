@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=sidsimhadri)](https://git.io/streak-stats)
+Taking a little break from projects right now because I need to Leetcode but I've got some fun stuff lined up :)
